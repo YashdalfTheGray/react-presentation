@@ -146,7 +146,7 @@ export default class Presentation extends React.Component {
                         </Heading>
                         <List margin="32px">
                             <ListItem textColor="white">
-                                <Link href="">
+                                <Link href="https://github.com/YashdalfTheGray/react-presentation/blob/master/presentation/README.md">
                                     <Text textColor="white">Outline</Text>
                                 </Link>
                             </ListItem>

@@ -1,4 +1,6 @@
-# Spectacle Boilerplate
+# react-presentation
+
+[Presentation Outline](https://github.com/YashdalfTheGray/react-presentation/blob/master/presentation/README.md)
 
 ## Reference
 
